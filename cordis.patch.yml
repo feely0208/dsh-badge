@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-badge 的组合层：装上即注册 deepwhale-badge skill
+- insert:
+    - id: deepwhale-badge
+      name: '@deepwhale-cn/dsh-badge'
