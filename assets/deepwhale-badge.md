@@ -22,6 +22,12 @@
 ![](https://img.shields.io/badge/powered_by-dwh-005A8C?style=flat&logoColor=white)
 ```
 
+## 默认使用场景
+
+- 用深鲸桌面产出**对外文档 / README / PR / MR** 时，默认在**末尾**加徽章，不需要用户每次提醒。
+- 用户明确说「加徽章 / 署名 / powered by dwh」时，必须加。
+- 纯内部材料、临时草稿、不对外发布的内容**不加**。
+
 ## 使用规则
 
 - GitHub / GitLab 的 Markdown 用 Shields.io 地址；用户没要求链接时用不带链接的写法。

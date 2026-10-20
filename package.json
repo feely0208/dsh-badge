@@ -1,7 +1,7 @@
 {
   "name": "@deepwhale-cn/dsh-badge",
-  "version": "0.1.0",
-  "description": "深鲸桌面署名徽章 skill：给用深鲸桌面产出的文档/PR 加「powered by dwh」胶囊徽章",
+  "version": "0.1.1",
+  "description": "深鲸桌面署名徽章 skill：给用深鲸桌面产出的文档/README/PR 加「powered by dwh」徽章（默认自动署名）",
   "type": "module",
   "main": "./lib/index.js",
   "exports": {
